@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sharpnesse of the svvord: or, Abners plea for accommodation. A sermon lately preached by John Pigot, curate of St Sepulchres, London.</title>
+            <author>Pigot, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90702</idno>
+            <idno type="STC">Wing P2222</idno>
+            <idno type="STC">Thomason E83_48</idno>
+            <idno type="STC">ESTC R22392</idno>
+            <idno type="EEBO-CITATION">99871732</idno>
+            <idno type="PROQUEST">99871732</idno>
+            <idno type="VID">124148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124148)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sharpnesse of the svvord: or, Abners plea for accommodation. A sermon lately preached by John Pigot, curate of St Sepulchres, London.</title>
+                  <author>Pigot, John.</author>
+               </titleStmt>
+               <extent>[8], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Clark, and are to be sold at his shop under S. Peters Church in Corn-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"His maiesties letter to the maior of Bristol" (Wing C2413, Thomason E.83[49]) is bound between quires A and B. Thus, quire A is identified as Thomason E.83[48] and quires B-G are identified as Thomason E.83[49].</note>
+                  <note>Annotation on Thomason copy: "Jan: 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, II, 26 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124148:1" rendition="simple:additions"/>
+            <p>THE SHARPNESSE OF THE SVVORD: OR, <hi>ABNERS</hi> PLEA FOR <hi>ACCOMMODATION.</hi>
+            </p>
+            <p>A SERMON <hi>Lately Preached</hi> BY <hi>JOHN PIGOT,</hi> Curate of S<hi rend="sup">t</hi> 
+               <hi>Sepulchres,</hi> LONDON.</p>
+            <q xml:lang="grc">
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </q>
+            <q>
+               <bibl>ESAY 9.5.</bibl>
+               <p>Every battell of the Warriour is with confuſed noiſe, and garments rolled in bloud.</p>
+            </q>
+            <q>
+               <bibl>2 SAM. 24.14.</bibl>
+               <p>Let us fall now into the hand of the Lord (for his mercies art great) and let me not fall into the hand of man.</p>
+            </q>
+            <p>
+               <add>Jan: 2<hi rend="sup">d</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for JOHN CLARK, and are to be ſold at his ſhop under S. <hi>Peters</hi> Church in <hi>Corn-hill.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:124148:2"/>
+            <pb facs="tcp:124148:2"/>
+            <head>TO THE Chriſtian Reader, And all thoſe that pray for the peace of JERUSALEM, <hi>Grace and Peace be multiplyed.</hi>
+            </head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am not ignorant what uncharita<g ref="char:EOLhyphen"/>ble cenſures are caſt upon theſe innocent Medi<g ref="char:EOLhyphen"/>tations and the Penner of them, by ſome turbulent ſpirits: I am forced to complain, as
+<pb facs="tcp:124148:3"/>the Pſalmiſt did in his time, <hi>Woe is me, my ſoule hath long dwelt among thoſe that are enemies unto peace; I la<g ref="char:EOLhyphen"/>bour for peace, but when I ſpeak unto them thereof, they make them ready to battel.</hi>
+            </p>
+            <p>Some have ſcoffed at the whole Sermon, as a diſcourſe unſeaſonable, <hi>borne out of due time,</hi>
+               <note place="margin">1 Cor 15.8.</note> as the Apoſtle ſpeaks; as if a Sermon of Peace in theſe times of wilfull diſtraction, were <hi>like ſnow in ſummer,</hi>
+               <note place="margin">Pro. 26.1.</note> 
+               <hi>or raine in harveſt.</hi>
+            </p>
+            <p>Others have wreſted and ſet their own gloſſes and interpretations up<g ref="char:EOLhyphen"/>on ſome paſſages of the Sermon, as if they tended to the diſcouragement of thoſe that have ſhewed them<g ref="char:EOLhyphen"/>ſelves willing to the work, to the en<g ref="char:EOLhyphen"/>feebling their hearts &amp; hands.<note place="margin">Pſal. 56.5.</note> 
+               <hi>They
+<pb facs="tcp:124148:3"/>daily miſtake my words, all that they imagine is to doe me evill.</hi>
+            </p>
+            <p>But <hi>bleſſed be God who comforteth us in all our tribulations:</hi>
+               <note place="margin">2 Cor. 1.4.</note> I have deli<g ref="char:EOLhyphen"/>vered my meſſage, and ſo diſcharged my conſcience. And though I have not every where met with <hi>the ſon of peace,</hi>
+               <note place="margin">Luk. 10.5, 6.</note> yet <hi>my peace is returned to me againe,</hi> I have it in my boſome.</p>
+            <p>As for their unjuſt cenſures, I weigh them no more then I deſerve them: <hi>Malè de me luquutus es,</hi>
+               <note place="margin">Seneca.</note> 
+               <hi>quia benè loqui neſcis,</hi> Some men ſpeake evill of their neighbours, becauſe they know not how to ſpeak well of any man. <hi>Hoc facis, non quod merear, ſed quod ſoleas,</hi> This they doe, not becauſe their neighbour deſerves it at their hands, but becauſe it is their cuſtome ſo to doe; <hi>The poyſon of aſps
+<pb facs="tcp:124148:4"/>is under their lips,</hi>
+               <note place="margin">Rom. 3.13.</note> and <hi>their mouth full of curſing and bitterneſſe.</hi>
+               <note place="margin">Virg.</note> 
+               <hi>Et ſi non aliqua nocuiſſes, mortuus eſſes,</hi> And if they ſhould not ſpit out ſome of this venome,<note place="margin">Pſal. 52.5.</note> and <hi>ſpeak ſome words that may doe hurt,</hi> they were not able to live.<note place="margin">2 Tim. 3.8.</note> 
+               <hi>Jannes</hi> and <hi>Jambres</hi> are ſo full of the ſpirit of contradiction, that they cannot containe themſelves. Ambitious <hi>Diotrephes (that looks for the preheminence)</hi> wil be <hi>prating,</hi>
+               <note place="margin">3 Ep. John ver. 9, 10.</note> and darting out <hi>malicious words</hi> a<g ref="char:EOLhyphen"/>gainſt thoſe Diſciples that preach love and peace. That nick-name which the Philoſophers gave Saint <hi>Paul</hi> at <hi>Athens,</hi>
+               <note place="margin">Act. 17.18.</note> muſt be his livery that preacheth any thing diſſonant from theſe mens fancies, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>What will this babler ſay?</hi>
+            </p>
+            <p>VVell,<note place="margin">Pſal. 12.3</note> let them goe on, <hi>their
+<pb facs="tcp:124148:4"/>tongues are their owne:</hi> Let <hi>Shimei</hi> curſe (ſaith <hi>David</hi>) <hi>who can tell if the Lord will look upon my affliction,</hi>
+               <note place="margin">1 Sam. 16.12.</note> 
+               <hi>and do me good for his curſing this day?</hi> However we in theſe dayes are not the firſt that have taſted of this cup, we may take the <hi>Prophets and Apo<g ref="char:EOLhyphen"/>ſtles</hi> for patterns of patience,<note place="margin">Ja. 5.10.</note> exam<g ref="char:EOLhyphen"/>ples of ſuffering in the ſame kind, &amp; the Lord of the Prophets too, for <hi>in the dayes of his fleſh,</hi>
+               <note place="margin">Luc. 16.14.</note> when hee was upon earth, ſome derided and carp<g ref="char:EOLhyphen"/>ed at his Preaching, as many doe at his Prayer now adays.</p>
+            <p>Beloved Chriſtian, into whoſe hands theſe thoughts of Peace ſhall come, reade them over without pre<g ref="char:EOLhyphen"/>judice,<note place="margin">Act. 21.24.</note> &amp; <hi>thou ſhalt ſee that the things whereof thou haſt been informed con<g ref="char:EOLhyphen"/>cerning them and me, are nothing.</hi> My
+<pb facs="tcp:124148:5"/>deſire in publiſhing theſe Meditati<g ref="char:EOLhyphen"/>ons, is to give thee ſatisfaction, and withall direction alſo to lead thy life in peace,<note place="margin">Pſal. 34.13.</note> 
+               <hi>that thou mayſt ſee good dayes,</hi> and at the end of thy dayes, when thy pilgrimage ſhal be expired, thou mayſt with old <hi>Simeon depart in peace:</hi>
+               <note place="margin">Luk. 2.29.</note> And ſo the God of peace,<note place="margin">Phil. 4.7.</note> 
+               <hi>and the peace of God which paſſeth all un<g ref="char:EOLhyphen"/>derſtanding, keep our hearts and minds through Chriſt Jeſus.</hi>
+            </p>
+            <closer>
+               <signed>Thine in the Prince of Peace, <hi>Jo: Pigot.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
